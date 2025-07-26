@@ -7,7 +7,7 @@ This project implements a simple 8-bit microprocessor using VHDL. It is fully sy
 The processor follows a basic single-cycle architecture. Each instruction is 8 bits wide and split into four fields:
 - **op** (2 bits): ALU operation code
 - **rs_addr** (2 bits): source register address
-- **rt_addr** (2 bits): second source or target register address
+- **rt_addr** (2 bits): target register address
 - **rd_addr** (2 bits): destination register address or immediate operand (depending on instruction)
 
 ### Data Path Components
@@ -26,7 +26,7 @@ The processor follows a basic single-cycle architecture. Each instruction is 8 b
   - `00`: AND  
   - `01`: ADD  
   - `10`: SUB  
-  - `11`: ADD (used with immediate values)
+  - `11`: ADDi (used with immediate values)
 
 - **Control Unit**:  
   Interprets the `op` code and generates control signals:
@@ -66,9 +66,6 @@ The `value` port from `CPU_top` represents the result of the ALU operations and 
 - Support more instructions (load/store)
 - Extend PC to handle larger instruction sets
 - Integrate with RAM or external memory interface
-
-## 📜 License
-This project is open-source and available under the MIT License.
 
 ---
 
