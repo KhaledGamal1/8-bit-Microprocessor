@@ -1,0 +1,14 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+D:/Study/Digital IC/NTI 1 month training/Projects/5- CPU/Vivado_testing/CPU/CPU.srcs/sources_1/imports/5- CPU/ALU.vhd,1753306345,vhdl,,,,alu,,,,,,,,
+D:/Study/Digital IC/NTI 1 month training/Projects/5- CPU/Vivado_testing/CPU/CPU.srcs/sources_1/imports/5- CPU/CPU_tb.vhd,1753313752,vhdl,,,,cpu_tb,,,,,,,,
+D:/Study/Digital IC/NTI 1 month training/Projects/5- CPU/Vivado_testing/CPU/CPU.srcs/sources_1/imports/5- CPU/CPU_top.vhd,1753312143,vhdl,,,,cpu_top,,,,,,,,
+D:/Study/Digital IC/NTI 1 month training/Projects/5- CPU/Vivado_testing/CPU/CPU.srcs/sources_1/imports/5- CPU/Control_unit.vhd,1753309023,vhdl,,,,control_unit,,,,,,,,
+D:/Study/Digital IC/NTI 1 month training/Projects/5- CPU/Vivado_testing/CPU/CPU.srcs/sources_1/imports/5- CPU/Instruction_memory.vhd,1753190703,vhdl,,,,instruction_memory,,,,,,,,
+D:/Study/Digital IC/NTI 1 month training/Projects/5- CPU/Vivado_testing/CPU/CPU.srcs/sources_1/imports/5- CPU/Program_counter.vhd,1753137365,vhdl,,,,program_counter,,,,,,,,
+D:/Study/Digital IC/NTI 1 month training/Projects/5- CPU/Vivado_testing/CPU/CPU.srcs/sources_1/imports/5- CPU/Registers_file.vhd,1753349670,vhdl,,,,registers_file,,,,,,,,
+D:/Study/Digital IC/NTI 1 month training/Projects/5- CPU/Vivado_testing/CPU/CPU.srcs/sources_1/imports/5- CPU/mux0.vhd,1753307539,vhdl,,,,mux0,,,,,,,,
+D:/Study/Digital IC/NTI 1 month training/Projects/5- CPU/Vivado_testing/CPU/CPU.srcs/sources_1/imports/5- CPU/mux1.vhd,1753310213,vhdl,,,,mux1,,,,,,,,
+D:/Study/Digital IC/NTI 1 month training/Projects/5- CPU/Vivado_testing/CPU/CPU.srcs/sources_1/imports/5- CPU/sign_extend.vhd,1753307891,vhdl,,,,sign_extend,,,,,,,,
